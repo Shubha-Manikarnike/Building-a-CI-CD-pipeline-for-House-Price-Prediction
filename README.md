@@ -19,14 +19,14 @@ The project comprises of the following steps:
 
 ## Instructions
 
+* Architectural Diagram for CI (Shows how key parts of the system work)>
+
+ ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/ci-diagram.png)
+
 * Github project with CI Process
 
 ![image](https://user-images.githubusercontent.com/14934998/195814730-b8c98db4-53be-4fdb-bd24-c1612c9a696a.png)
 
-* Architectural Diagram for CI (Shows how key parts of the system work)>
-
- ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/ci-diagram.png)
- 
  * Project cloned into Azure Cloud Shell - CLone the project into Azure shell cloud
  
 ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Project_CLoned%20in%20Azure%20Cloud%20Shell.jpg)
