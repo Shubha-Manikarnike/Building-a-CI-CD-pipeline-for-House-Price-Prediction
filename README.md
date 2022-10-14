@@ -22,19 +22,23 @@ The project comprises of the following steps:
 * Architectural Diagram (Shows how key parts of the system work)>
 
  ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/cd-diagram.png)
-
-* Project running on Azure App Service
-![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Webapp%20server%20deployes.jpg)
-![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Webapp%20server%20deployed1.jpg)
-
-* Project cloned into Azure Cloud Shell
+ 
+ * Project cloned into Azure Cloud Shell
 ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Project_CLoned%20in%20Azure%20Cloud%20Shell.jpg)
 
+
+* Project running on Azure App Service
+
+![image](https://user-images.githubusercontent.com/14934998/195813554-47076d9c-6c68-4e18-b691-be8f24a1a0ef.png)
+
+![image](https://user-images.githubusercontent.com/14934998/195813828-2149980c-1268-4a49-b6e0-663861ce45de.png)
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+
 ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Successful%20make_all.jpg)
 
-* Output of a test run
-![image]()
+![image](https://user-images.githubusercontent.com/14934998/195814730-b8c98db4-53be-4fdb-bd24-c1612c9a696a.png)
+
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
@@ -51,10 +55,13 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 
+![image](https://user-images.githubusercontent.com/14934998/195814449-5ca4e9c3-4929-4389-a874-44f7506b1e10.png)
+
 * 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+* The library dependecies need to be checked correctly to ensure that the project works seemlessly.
+* The webpage can be enhanced to read inputs from the webpage itself and predict the output on the webpage itself.
 
 ## Demo 
 
