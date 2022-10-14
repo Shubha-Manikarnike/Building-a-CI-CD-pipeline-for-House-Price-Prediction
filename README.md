@@ -15,26 +15,32 @@ The project comprises of the following steps:
 
 
 * A link to a Trello board for the project can be found here - [trello board](https://trello.com/b/EuHOoYu1/azure-data-engineering) 
-* A link to a spreadsheet that includes the original and final project plan - 
+* A link to a spreadsheet that includes the original and final project plan - [here](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/project%20plan/project-management-template%20for%20Azure%20Data%20Engineering.xlsx)
 
 ## Instructions
 
-<TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+ ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/cd-diagram.png)
 
 * Project running on Azure App Service
+![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Webapp%20server%20deployes.jpg)
+![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Webapp%20server%20deployed1.jpg)
 
 * Project cloned into Azure Cloud Shell
+![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Project_CLoned%20in%20Azure%20Cloud%20Shell.jpg)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Successful%20make_all.jpg)
 
 * Output of a test run
+![image]()
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
+
 * Running Azure App Service from Azure Pipelines automatic deployment
+![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/CICI-Completed.jpg)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
@@ -45,10 +51,7 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 
-* Output of streamed log files from deployed application
-
-> 
-
+* 
 ## Enhancements
 
 <TODO: A short description of how to improve the project in the future>
