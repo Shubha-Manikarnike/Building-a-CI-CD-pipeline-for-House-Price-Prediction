@@ -19,9 +19,13 @@ The project comprises of the following steps:
 
 ## Instructions
 
-* Architectural Diagram (Shows how key parts of the system work)>
+* Github project with CI Process
 
- ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/cd-diagram.png)
+![image](https://user-images.githubusercontent.com/14934998/195814730-b8c98db4-53be-4fdb-bd24-c1612c9a696a.png)
+
+* Architectural Diagram for CI (Shows how key parts of the system work)>
+
+ ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/ci-diagram.png)
  
  * Project cloned into Azure Cloud Shell - CLone the project into Azure shell cloud
  
@@ -38,8 +42,6 @@ The project comprises of the following steps:
 
 ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/Successful%20make_all.jpg)
 
-![image](https://user-images.githubusercontent.com/14934998/195814730-b8c98db4-53be-4fdb-bd24-c1612c9a696a.png)
-
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
 
@@ -51,12 +53,25 @@ Port: 443
 
 ![image](https://user-images.githubusercontent.com/14934998/195814449-5ca4e9c3-4929-4389-a874-44f7506b1e10.png)
 
+* Architectural Diagram for CD (Shows how key parts of the system work)>
+
+ ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/cd-diagram.png)
+ 
+* Create project in Azure Organization
+![image](https://user-images.githubusercontent.com/14934998/195839785-c0375475-71e2-425a-88e9-2c20a8c26d8c.png)
+
+* Service connection for the project
+![image](https://user-images.githubusercontent.com/14934998/195839897-9f22ae13-8e00-49cc-a6e2-7c4d1de7c89d.png)
+
+* Pipeline creation for the project
+![image](https://user-images.githubusercontent.com/14934998/195840023-f6b4d620-a860-40db-8077-e097fa4ea54f.png)
+
+
 * Successful deploy of the project in Azure Pipelines. Deploy the project in Azure pipelines
 
 ![image](https://github.com/Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction/blob/main/img/CICI-Completed.jpg)
 
 
-* 
 ## Enhancements
 
 * The library dependecies need to be checked correctly to ensure that the project works seemlessly.
