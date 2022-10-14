@@ -14,7 +14,7 @@ The project comprises of the following steps:
 ## Project Plan
 
 
-* A link to a Trello board for the project can be found here - [trello board](URL https://trello.com/b/EuHOoYu1/azure-data-engineering) 
+* A link to a Trello board for the project can be found here - [trello board](https://trello.com/b/EuHOoYu1/azure-data-engineering) 
 * A link to a spreadsheet that includes the original and final project plan - 
 
 ## Instructions
