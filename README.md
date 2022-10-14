@@ -1,12 +1,21 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This project demonstrates building a Github repository from scratch and create a scaffolding that will assist in performing both Continuous Integration and Continuous Delivery. Github Actions are used along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. This project is integrated with Azure Pipelines to enable Continuous Delivery to Azure App Service.
+
+The project comprises of the following steps:
+1. Prepare a Project plan 
+2. An architectural diagram.
+3. Implement CI in github
+4. Create and activate Azure Webapp
+4. Deploy the Project in Azure Pipelines
+
+
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+
+* A link to a Trello board for the project can be found here - [trello board](URL https://trello.com/b/EuHOoYu1/azure-data-engineering) 
+* A link to a spreadsheet that includes the original and final project plan - 
 
 ## Instructions
 
