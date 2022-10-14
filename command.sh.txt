@@ -1,0 +1,4 @@
+git clone git@github.com:Shubha-Manikarnike/Building-a-CI-CD-pipeline-for-House-Price-Prediction.git
+cd Building-a-CI-CD-pipeline-for-House-Price-Prediction
+make all
+az webapp up --name icicd211310 --resource-group iaDevops --runtime "PYTHON:3.7"
